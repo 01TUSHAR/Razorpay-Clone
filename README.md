@@ -16,17 +16,8 @@ npm install
 npm run dev
 
 📂 Project Structure
-Razorpay-Clone/
-│── public/          # Static files (index.html, favicon, etc.)
-│── src/             # React components & assets
-│── ├── images/      # All icons & images
-│── ├── components/  # Reusable UI components
-│── ├── App.jsx      # Main application file
-│── ├── main.jsx     # Entry point
-│── package.json     # Dependencies & scripts
-│── vite.config.js   # Vite configuration
-│── .gitignore       # Ignored files (node_modules, etc.)
-│── README.md        # Project documentation
+![Uploading image.png…]()
+
 ...
 ..
 📸 Screenshots
