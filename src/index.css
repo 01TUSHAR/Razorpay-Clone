@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import "tailwindcss";
+
+
+@theme{
+    --font-*: initial;
+    --font-sans: "Mulish", "sans-serif";
+
+    --color-deepBlue: #02042a;
+    --color-lightBlue: #2b84ea;
+    --color-lightBlue-300: #4b94ed;
+    --color-lightBlue-500: #0b72e7;
+    --color-lightGreen: #61cea6;
+    --color-greyText: #818597;
+    --color-lightGrey: #e2e2e2;
+    --color-greyBlue: #344a6c;
+    --color-deepBlueHead: #162f56;
+    --color-grey2: #525a76;
+
+
+    --animate-moveup: moveup 10s linear infinite;
+
+    @keyframes moveup{
+        0%{
+            top: 0;
+        }
+        100%{
+            top: -50%;
+        }
+    }
+    
+}
