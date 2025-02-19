@@ -4,19 +4,23 @@ This is a Razorpay Clone built using React and Tailwind CSS. It features a moder
 
 🚀 Getting Started
 1️⃣ Clone the Repository.
-git clone <your-github-repo-url>
+
+git clone (https://github.com/01TUSHAR/Razorpay-Clone.git)
 cd Razorpay-Clone
 
 
 2️⃣ Install Dependencies
-npm install
+
+    npm install
 
 
 3️⃣ Run the Development Server
-npm run dev
+
+    npm run dev
 
 📂 Project Structure
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8f01c9cf-f0f2-4ce3-b4d3-9715e055c832)
+
 
 ...
 ..
